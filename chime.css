@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.tea{
+    background-color: red;
+    padding-left:2%;
+    
+}
+.mba{
+    display: flex;
+    justify-content: space-between;
+}
+.yes{
+    font-size: 80px;
+}
+.ok{
+    margin-bottom: 2000px;
+}
+button{
+    background-color: blue;
+    border-radius: 50px;
+    color: white;
+    padding-left: 0.7%;
+    padding-right: 0.7%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+}
+
+.ehe{
+    font-size: 25px;
+    font-style: normal;
+}
+
+button:hover{
+    border: none;
+    background-color: chartreuse;
+    color: black;
+    cursor: pointer;
+}
+.mtch{
+    padding-left: 2%;
+    padding-right: 2%;
+}
